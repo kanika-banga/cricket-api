@@ -1,0 +1,50 @@
+[
+    {
+        "event_key": "415",
+        "event_date_start": "2019-03-15",
+        "event_date_stop": "2019-03-19",
+        "event_time": "05:30",
+        "event_home_team": "Afghanistan",
+        "home_team_key": "78",
+        "event_away_team": "Ireland",
+        "away_team_key": "72",
+        "event_service_home": "Batting team",
+        "event_service_away": "Bowling team",
+        "event_home_final_result": "311/9 (105)",
+        "event_away_final_result": "172",
+        "event_home_rr": "",
+        "event_away_rr": "",
+        "event_status": "1st Innings",
+        "event_status_info": "Afghanistan lead by 139 runs with 1 wicket remaining in the 1st innings.",
+        "country_name": "World",
+        "league_name": "Test Series",
+        "league_key": "9846",
+        "league_round": "",
+        "league_season": "2019",
+        "event_live": "1",
+        "event_home_team_logo": "https://api.api-cricket.com/logo/78_afghanistan.png",
+        "event_away_team_logo": "https://api.api-cricket.com/logo/72_ireland.png",
+        "scorecard": [],
+        "ball_by_ball": [],
+        "wickets": [],
+        "extra": [],
+        "lineups": {
+            "home_team": {
+                "starting_lineups": [
+                    {
+                        "player": "Asghar A. (C)",
+                        "player_country": "Afghanistan"
+                    },
+                    {
+                        "player": "Asghar A. (C)",
+                        "player_country": "Afghanistan"
+                    },
+                    {
+                        "player": "Asghar A. (C)",
+                        "player_country": "Afghanistan"
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_key": "2391",
+        "event_date_start": "2019-06-09",
+        "event_date_stop": "2019-06-09",
+        "event_time": "11:30",
+        "event_home_team": "Australia",
+        "home_team_key": "5",
+        "event_away_team": "India",
+        "away_team_key": "30",
+        "event_service_home": "",
+        "event_service_away": "",
+        "event_home_final_result": "316/10 (50)",
+        "event_away_final_result": "352/5 (50)",
+        "event_home_rr": "RR 6.32",
+        "event_away_rr": "RR 7.04",
+        "event_status": "Finished",
+        "event_status_info": "India won by 36 runs.",
+        "league_name": "ICC World Cup",
+        "league_key": "9843",
+        "league_round": "",
+        "league_season": "",
+        "event_live": "0"
+    } 
+]

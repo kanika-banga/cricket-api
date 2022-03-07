@@ -1,0 +1,32 @@
+[
+    {
+        "league_key": "9824",
+        "league_name": "Asia Cup ODI",
+        "country_key": "511",
+        "country_name": "Asia"
+    },
+    {
+        "league_key": "9825",
+        "league_name": "Asia Cup T20",
+        "country_key": "511",
+        "country_name": "Asia"
+    },
+    {
+        "league_key": "9823",
+        "league_name": "Asian Games",
+        "country_key": "511",
+        "country_name": "Asia"
+    },
+    {
+        "league_key": "9828",
+        "league_name": "Asian Games Women",
+        "country_key": "511",
+        "country_name": "Asia"
+    },
+    {
+        "league_key": "9831",
+        "league_name": "East Asia Cup",
+        "country_key": "511",
+        "country_name": "Asia"
+    }
+]
